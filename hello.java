@@ -1,1 +1,1 @@
-hello from local repository
+hello from local repo
